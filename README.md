@@ -12,6 +12,7 @@ Bot to help make internal processes easier within the Women in Engineering commu
 2. make sure you have python installed
 3. Replace the secret key token with the actual token found on Notion (we should really migrate this to use .env, someone do that please)
 4. run ```python main.py```
+5. when you see ```slash commands are now synced``` in the terminal, it means you can go to the WiE discord and start using the bot
 
 ## Hosting
 um.. its not
