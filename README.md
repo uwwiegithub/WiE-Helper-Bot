@@ -16,3 +16,6 @@ Bot to help make internal processes easier within the Women in Engineering commu
 
 ## Hosting
 um.. its not
+
+## Example Output
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/fff6019f-7a06-4e3f-b8e7-e62796b7e7c6">
