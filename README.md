@@ -3,9 +3,12 @@
 Bot to help make internal processes easier within the Women in Engineering community!
 
 ## 3 features
-1. add member to a subteam role (/assign_role)
-2. remove member from a subteam role (/unassign_role)
-3. view all members + their subteam role (/subteam_info)
+1. /assign_role - add member to a subteam role
+2. /unassign_role - remove member from a subteam role 
+3. /subteam_info - view all members + their subteam role
+4. /assign_past_directors - Gives everyone with the Director role the Past Director role
+5. /year_to_alumni - Give everyone in a specified year role the Alumni role
+6. /remove_all_directors - Remove Director role & subroles from everyone with Director role (except execs, faculty & wie reps)
 
 ## How To Clone
 1. ```git clone``` the repository to your local machine
