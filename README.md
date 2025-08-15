@@ -7,11 +7,18 @@ Bot to help make internal processes easier within the Women in Engineering commu
 2. remove member from a subteam role (/unassign_role)
 3. view all members + their subteam role (/subteam_info)
 
-## How To Run
+## How To Clone
 1. ```git clone``` the repository to your local machine
 2. make sure you have python installed
 3. Replace the secret key token with the actual token found on Notion (we should really migrate this to use .env, someone do that please)
-4. run ```python main.py```
+
+## How To Run
+1. ```python3 -m venv venv```
+2. ```source venv/bin/activate```
+3. ```pip install -r requirements.txt```
+Run either:
+```python main.py --token "MY_PROD_TOKEN"``` or
+```python main.py``` and place the DISCORD_TOKEN in a .env file
 5. when you see ```slash commands are now synced``` in the terminal, it means you can go to the WiE discord and start using the bot
 
 ## Hosting
