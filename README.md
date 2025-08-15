@@ -10,6 +10,8 @@ Bot to help make internal processes easier within the Women in Engineering commu
 5. /year_to_alumni - Give everyone in a specified year role the Alumni role
 6. /remove_all_directors - Remove Director role & subroles from everyone with Director role (except execs, faculty & wie reps)
 
+testtt
+
 ## How To Clone
 1. ```git clone``` the repository to your local machine
 2. make sure you have python installed
