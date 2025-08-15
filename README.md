@@ -10,10 +10,14 @@ Bot to help make internal processes easier within the Women in Engineering commu
 5. /year_to_alumni - Give everyone in a specified year role the Alumni role
 6. /remove_all_directors - Remove Director role & subroles from everyone with Director role (except execs, faculty & wie reps)
 
-## How To Clone
-1. ```git clone``` the repository to your local machine
-2. make sure you have python installed
-3. Replace the secret key token with the actual token found on Notion (we should really migrate this to use .env, someone do that please)
+## How To Contribute
+1. [Fork the repo](https://github.com/uwwiegithub/WiE-Helper-Bot)
+2. Create a branch: `git checkout -b feature-name`
+3. Make your changes
+4. Commit: `git commit -m "Description of change"`
+5. Push to your fork
+6. Open a Pull Request to `main` 
+7. Ask someone from the exec team to review your code!
 
 ## How To Run
 1. ```python3 -m venv venv```
