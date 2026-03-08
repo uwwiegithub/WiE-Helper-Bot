@@ -29,7 +29,7 @@ Run either:
 5. when you see ```slash commands are now synced``` in the terminal, it means you can go to the WiE discord and start using the bot
 
 ## Hosting
-um.. its not
+Through Waterloo Computer Science Club
 
 ## Example Output
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/fff6019f-7a06-4e3f-b8e7-e62796b7e7c6">
