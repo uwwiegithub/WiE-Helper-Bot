@@ -8,7 +8,7 @@ directorship_options = [
     app_commands.Choice(name="promotions/liaison", value="promotions/liaison director"),
     app_commands.Choice(name="mentorship", value="mentorship director"),
     app_commands.Choice(name="graphics", value="graphics director"),
-    app_commands.Choice(name="volunteer", value="volunteer director"),
+    app_commands.Choice(name="editorial", value="editorial director"),
     app_commands.Choice(name="merch design", value="merch design director"),
     app_commands.Choice(name="hackathon", value="hackathon director"),
 ]
