@@ -3,9 +3,11 @@ from discord import app_commands
 directorship_options = [
     app_commands.Choice(name="sponsorship", value="sponsorship director"),
     app_commands.Choice(name="discord", value="discord director"),
+    app_commands.Choice(name="ui/ux", value="ui/ux director"),
     app_commands.Choice(name="socials", value="socials director"),
     app_commands.Choice(name="events", value="events director"),
-    app_commands.Choice(name="promotions/liaison", value="promotions/liaison director"),
+    app_commands.Choice(name="liaison/advocacy", value="liaison/advocacy director"),
+    app_commands.Choice(name="promotions", value="promotions director"),
     app_commands.Choice(name="mentorship", value="mentorship director"),
     app_commands.Choice(name="graphics", value="graphics director"),
     app_commands.Choice(name="editorial", value="editorial director"),
